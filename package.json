@@ -4,9 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+  "help": "cowsay -h",
+  "cows": "cowsay -l",
+  "cowsay": "cowsay",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Elisha White <G00304097@stu.raritanval.edu> (https://github.com/Eli460)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
 }
