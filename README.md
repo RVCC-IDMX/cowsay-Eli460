@@ -1,3 +1,3 @@
 # Hey, Guys
-## Hows it going?
-npm run cowsay -- "wow, this is new -f smiling-octopus
+## How's it going?
+npm run cowsay -- "wow, this is new" -f smiling-octopus
